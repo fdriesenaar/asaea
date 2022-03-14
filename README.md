@@ -12,7 +12,7 @@ P = P1
 Let two internediate keys K1 and K2 be:
 
 ```
-K1 = P.P1
+K1 = P.P2
 K2 = P.P3
 ```
 

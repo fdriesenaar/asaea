@@ -61,8 +61,8 @@ S = E modulo P
 ```
 E modulo P = S + (I3.PUB1 + I4.PUB2).P6 modulo P
             = S + (I3.((I1.K1 + I2.K2).P4) + I4.((I3.K1 + I4.K2).P5)).P6 modulo P
-            = S + (I3.((I1.P.P1 + I2.P.P3).P4) + I4.((I3.P.P1 + I4.P.P3).P5)).P6 modulo P
-            = S + (I3.((I1.P1 + I2.P3).P4).P + I4.((I3.P1 + I4.P.P3).P5).P).P6 modulo P
-            = S + (I3.((I1.P1 + I2.P3).P4) + I4.((I3.P1 + I4.P.P3).P5)).P6.P modulo P
+            = S + (I3.((I1.P.P2 + I2.P.P3).P4) + I4.((I3.P.P1 + I4.P.P3).P5)).P6 modulo P
+            = S + (I3.((I1.P2 + I2.P3).P4).P + I4.((I3.P1 + I4.P.P3).P5).P).P6 modulo P
+            = S + (I3.((I1.P2 + I2.P3).P4) + I4.((I3.P1 + I4.P.P3).P5)).P6.P modulo P
             = S
 ```
